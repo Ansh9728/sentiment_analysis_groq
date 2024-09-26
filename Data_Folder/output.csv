@@ -1,0 +1,511 @@
+,review,sentiment
+0,"Great product, very useful!","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+1,Poor quality and bad customer service.😡,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.05,
+         ""negative"": 0.85,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+2,"Average performance, nothing special.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.4,
+         ""negative"": 0.3,
+         ""neutral"": 0.3
+      },
+      ""confidence_score"": 0.7
+   }
+}"
+3,"Exceeded my expectations, fantastic!","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+4,"Terrible, not worth the money.😞","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.02,
+         ""negative"": 0.98,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+5,"Quite good, but could be improved.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.6,
+         ""negative"": 0.2,
+         ""neutral"": 0.2
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+6,"Mediocre at best, not recommended.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.2,
+         ""negative"": 0.7,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+7,"Wonderful design, highly recommended!","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+8,"Awful experience, would not buy again.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.0,
+         ""negative"": 1.0,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+9,"Solid product, good value for the price.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+10,Highly satisfied with the purchase.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.9,
+         ""negative"": 0.1,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+11,The product broke after a few uses.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.0,
+         ""negative"": 1.0,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+12,I would definitely buy this again!😄,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.9,
+         ""negative"": 0.1,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+13,"Not as described, very disappointed.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.2,
+         ""negative"": 0.6,
+         ""neutral"": 0.2
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+14,Customer service was really helpful.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+15,It works perfectly as expected.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+16,I had a terrible experience with this.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.0,
+         ""negative"": 0.8,
+         ""neutral"": 0.2
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+17,Well worth the money.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+18,Waste of time and money.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.0,
+         ""negative"": 1.0,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+19,Absolutely love this product!,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.9,
+         ""negative"": 0.1,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+20,It didn’t work as advertised.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.2,
+         ""negative"": 0.7,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+21,Very reliable and easy to use.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+22,"I had higher expectations, sadly disappointed.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.2,
+         ""negative"": 0.7,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+23,"Delivered quickly, works as intended.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+24,"Horrible quality, won’t buy again.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.0,
+         ""negative"": 1.0,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+25,This is the best purchase I’ve made.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.9,
+         ""negative"": 0.1,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+26,It stopped working after a month.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.2,
+         ""negative"": 0.6,
+         ""neutral"": 0.2
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+27,I’m quite pleased with this product.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+28,"Very cheap material, not durable.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.2,
+         ""negative"": 0.7,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+29,Fantastic performance for the price.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+30,Extremely frustrating experience.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.0,
+         ""negative"": 0.8,
+         ""neutral"": 0.2
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+31,User-friendly and well-designed.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+32,Not worth the price at all.🙁,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.0,
+         ""negative"": 1.0,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+33,Better than expected!,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.7,
+         ""negative"": 0.1,
+         ""neutral"": 0.2
+      },
+      ""confidence_score"": 0.85
+   }
+}"
+34,The instructions were very unclear.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.7,
+         ""negative"": 0.2,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.85
+   }
+}"
+35,Would definitely recommend to others.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+36,Very underwhelming experience.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.1,
+         ""negative"": 0.8,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+37,"Does the job, no complaints.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.6,
+         ""negative"": 0.2,
+         ""neutral"": 0.2
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+38,I regret purchasing this item.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.2,
+         ""negative"": 0.7,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+39,Great value for money!😃,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+40,"Arrived damaged, very disappointed.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.0,
+         ""negative"": 0.8,
+         ""neutral"": 0.2
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+41,Exceeded my expectations!,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+42,Not what I was hoping for.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+43,Happy with the purchase overall.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+44,Total waste of money.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.0,
+         ""negative"": 1.0,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+45,"Amazing product, highly satisfied!","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.9,
+         ""negative"": 0.1,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+46,"Not durable, broke after a few uses.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.2,
+         ""negative"": 0.7,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+47,Fantastic design and great quality.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.8,
+         ""negative"": 0.1,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.9
+   }
+}"
+48,Wouldn’t recommend to others.,"{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.2,
+         ""negative"": 0.7,
+         ""neutral"": 0.1
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+49,"Excellent value, would buy again.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.9,
+         ""negative"": 0.1,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.8
+   }
+}"
+50,"Terrible product, avoid at all costs.","{
+   ""sentiment_analysis"": {
+      ""sentiment"": {
+         ""positive"": 0.02,
+         ""negative"": 0.98,
+         ""neutral"": 0.0
+      },
+      ""confidence_score"": 0.9
+   }
+}"
